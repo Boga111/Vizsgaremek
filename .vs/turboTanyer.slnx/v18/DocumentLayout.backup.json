@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\alkalmazas\\turboTanyer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|e:\\alkalmazas\\turbotanyer\\turbotanyer\\frmbelepes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|solutionrelative:turbotanyer\\frmbelepes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|E:\\alkalmazas\\turboTanyer\\turbotanyer\\frmbelepes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|solutionrelative:turbotanyer\\frmbelepes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|e:\\alkalmazas\\turbotanyer\\turbotanyer\\frmhelyfoglalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|solutionrelative:turbotanyer\\frmhelyfoglalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|E:\\alkalmazas\\turboTanyer\\turbotanyer\\frmhelyfoglalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|solutionrelative:turbotanyer\\frmhelyfoglalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|E:\\alkalmazas\\turboTanyer\\turbotanyer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|solutionrelative:turbotanyer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|E:\\alkalmazas\\turboTanyer\\turbotanyer\\hozzaadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|solutionrelative:turbotanyer\\hozzaadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|E:\\alkalmazas\\turboTanyer\\turbotanyer\\frmszamla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|solutionrelative:turbotanyer\\frmszamla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|E:\\alkalmazas\\turboTanyer\\turbotanyer\\frmszamla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|solutionrelative:turbotanyer\\frmszamla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|E:\\alkalmazas\\turboTanyer\\turbotanyer\\frmkonyhaindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|solutionrelative:turbotanyer\\frmkonyhaindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBelepes.cs",
+              "DocumentMoniker": "E:\\alkalmazas\\turboTanyer\\turboTanyer\\frmBelepes.cs",
+              "RelativeDocumentMoniker": "turboTanyer\\frmBelepes.cs",
+              "ToolTip": "E:\\alkalmazas\\turboTanyer\\turboTanyer\\frmBelepes.cs",
+              "RelativeToolTip": "turboTanyer\\frmBelepes.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAMwD8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T14:20:41.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmhelyfoglalas.cs",
+              "DocumentMoniker": "E:\\alkalmazas\\turboTanyer\\turboTanyer\\frmhelyfoglalas.cs",
+              "RelativeDocumentMoniker": "turboTanyer\\frmhelyfoglalas.cs",
+              "ToolTip": "E:\\alkalmazas\\turboTanyer\\turboTanyer\\frmhelyfoglalas.cs",
+              "RelativeToolTip": "turboTanyer\\frmhelyfoglalas.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAWwGUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T15:42:31.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\alkalmazas\\turboTanyer\\turboTanyer\\Program.cs",
+              "RelativeDocumentMoniker": "turboTanyer\\Program.cs",
+              "ToolTip": "E:\\alkalmazas\\turboTanyer\\turboTanyer\\Program.cs",
+              "RelativeToolTip": "turboTanyer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T09:01:21.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hozzaadas.cs [Design]",
+              "DocumentMoniker": "E:\\alkalmazas\\turboTanyer\\turboTanyer\\Hozzaadas.cs",
+              "RelativeDocumentMoniker": "turboTanyer\\Hozzaadas.cs",
+              "ToolTip": "D:\\alkalmazas\\turboTanyer\\turboTanyer\\Hozzaadas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T08:34:28.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmSzamla.cs",
+              "DocumentMoniker": "E:\\alkalmazas\\turboTanyer\\turboTanyer\\frmSzamla.cs",
+              "RelativeDocumentMoniker": "turboTanyer\\frmSzamla.cs",
+              "ToolTip": "E:\\alkalmazas\\turboTanyer\\turboTanyer\\frmSzamla.cs",
+              "RelativeToolTip": "turboTanyer\\frmSzamla.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAADwv3oBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T08:34:20.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBelepes.cs [Design]",
+              "DocumentMoniker": "E:\\alkalmazas\\turboTanyer\\turboTanyer\\frmBelepes.cs",
+              "RelativeDocumentMoniker": "turboTanyer\\frmBelepes.cs",
+              "ToolTip": "E:\\alkalmazas\\turboTanyer\\turboTanyer\\frmBelepes.cs [Design]",
+              "RelativeToolTip": "turboTanyer\\frmBelepes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T08:19:42.173Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmhelyfoglalas.cs [Design]",
+              "DocumentMoniker": "E:\\alkalmazas\\turboTanyer\\turboTanyer\\frmhelyfoglalas.cs",
+              "RelativeDocumentMoniker": "turboTanyer\\frmhelyfoglalas.cs",
+              "ToolTip": "E:\\alkalmazas\\turboTanyer\\turboTanyer\\frmhelyfoglalas.cs [Design]",
+              "RelativeToolTip": "turboTanyer\\frmhelyfoglalas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T08:19:41.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmKonyhaIndex.cs [Design]",
+              "DocumentMoniker": "E:\\alkalmazas\\turboTanyer\\turboTanyer\\frmKonyhaIndex.cs",
+              "RelativeDocumentMoniker": "turboTanyer\\frmKonyhaIndex.cs",
+              "ToolTip": "D:\\alkalmazas\\turboTanyer\\turboTanyer\\frmKonyhaIndex.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T08:19:40.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmSzamla.cs [Design]",
+              "DocumentMoniker": "E:\\alkalmazas\\turboTanyer\\turboTanyer\\frmSzamla.cs",
+              "RelativeDocumentMoniker": "turboTanyer\\frmSzamla.cs",
+              "ToolTip": "D:\\alkalmazas\\turboTanyer\\turboTanyer\\frmSzamla.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T08:19:38.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
