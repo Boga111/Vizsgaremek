@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Bogi\\Desktop\\turbotanyer\\turboTanyer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|C:\\Users\\Bogi\\Desktop\\turbotanyer\\turboTanyer\\turbotanyer\\frmbelepes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|c:\\users\\bogi\\desktop\\turbotanyer\\turbotanyer\\turbotanyer\\adatbazis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|solutionrelative:turbotanyer\\adatbazis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|c:\\users\\bogi\\desktop\\turbotanyer\\turbotanyer\\turbotanyer\\frmbelepes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|solutionrelative:turbotanyer\\frmbelepes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|c:\\users\\bogi\\desktop\\turbotanyer\\turbotanyer\\turbotanyer\\frmbelepes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|C:\\Users\\Bogi\\Desktop\\turbotanyer\\turboTanyer\\turbotanyer\\frmbelepes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B0F2876-4B2F-48B4-B8A0-B2706DEFED69}|turboTanyer\\turboTanyer.csproj|solutionrelative:turbotanyer\\frmbelepes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Adatbazis.cs",
+              "DocumentMoniker": "C:\\Users\\Bogi\\Desktop\\turbotanyer\\turboTanyer\\turboTanyer\\Adatbazis.cs",
+              "RelativeDocumentMoniker": "turboTanyer\\Adatbazis.cs",
+              "ToolTip": "C:\\Users\\Bogi\\Desktop\\turbotanyer\\turboTanyer\\turboTanyer\\Adatbazis.cs",
+              "RelativeToolTip": "turboTanyer\\Adatbazis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T06:08:21.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "frmBelepes.cs",
               "DocumentMoniker": "C:\\Users\\Bogi\\Desktop\\turbotanyer\\turboTanyer\\turboTanyer\\frmBelepes.cs",
               "RelativeDocumentMoniker": "turboTanyer\\frmBelepes.cs",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frmhelyfoglalas.cs",
               "DocumentMoniker": "C:\\Users\\Bogi\\Desktop\\turbotanyer\\turboTanyer\\turboTanyer\\frmhelyfoglalas.cs",
               "RelativeDocumentMoniker": "turboTanyer\\frmhelyfoglalas.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bogi\\Desktop\\turbotanyer\\turboTanyer\\turboTanyer\\Program.cs",
               "RelativeDocumentMoniker": "turboTanyer\\Program.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Hozzaadas.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Bogi\\Desktop\\turbotanyer\\turboTanyer\\turboTanyer\\Hozzaadas.cs",
               "RelativeDocumentMoniker": "turboTanyer\\Hozzaadas.cs",
@@ -97,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "frmSzamla.cs",
               "DocumentMoniker": "C:\\Users\\Bogi\\Desktop\\turbotanyer\\turboTanyer\\turboTanyer\\frmSzamla.cs",
               "RelativeDocumentMoniker": "turboTanyer\\frmSzamla.cs",
@@ -109,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmBelepes.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Bogi\\Desktop\\turbotanyer\\turboTanyer\\turboTanyer\\frmBelepes.cs",
               "RelativeDocumentMoniker": "turboTanyer\\frmBelepes.cs",
@@ -121,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "frmhelyfoglalas.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Bogi\\Desktop\\turbotanyer\\turboTanyer\\turboTanyer\\frmhelyfoglalas.cs",
               "RelativeDocumentMoniker": "turboTanyer\\frmhelyfoglalas.cs",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "frmKonyhaIndex.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Bogi\\Desktop\\turbotanyer\\turboTanyer\\turboTanyer\\frmKonyhaIndex.cs",
               "RelativeDocumentMoniker": "turboTanyer\\frmKonyhaIndex.cs",
@@ -141,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "frmSzamla.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Bogi\\Desktop\\turbotanyer\\turboTanyer\\turboTanyer\\frmSzamla.cs",
               "RelativeDocumentMoniker": "turboTanyer\\frmSzamla.cs",
